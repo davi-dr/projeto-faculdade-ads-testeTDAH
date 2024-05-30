@@ -1,0 +1,90 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #ffffff;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 45px;
+    background: #96c0bb;
+    width: 500px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+section h2{
+    color: #6565D7;
+    font-size: 2.5rem;
+    margin: 1rem;
+}
+
+section form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+form label{
+    color: #6565D7;
+    font-size: 17px;
+    margin-bottom: 4px;
+    font-weight: bold;
+}
+
+form input {
+    padding: 15px;
+    outline: none;
+    border: 0;
+    margin-bottom: 20px;
+    font-size: 15px;
+    transition: all 0.5s;
+}
+
+form input:focus{
+    border-radius: 16px;
+}
+
+form textarea {
+    padding: 10px;
+    outline: none;
+    border-left: 0;
+    font-size: 15px;
+    margin-bottom: 30px;
+    transition: all 0.5s;
+}
+
+form textarea:focus {
+    border-radius: 15px;
+}
+
+form button {
+    padding: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    background: #6565D7;
+    color: #ffffff;
+    border-radius: 10px;
+    border: 0;
+    font-weight: 700;
+    transition: all 0.5s;
+    margin-bottom: 20px;
+}
+
+form button:hover{
+    background: #255D56;
+    color: #ffffff;
+    
+} */
